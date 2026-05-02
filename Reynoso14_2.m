@@ -15,6 +15,6 @@ ylabel("y")
 subplot(2,1,2)
 plot(x(2:n-1),der,color='r')
 grid on 
-title('Derivative fuction')
+title('Derivative of the fuction')
 xlabel("x")
 ylabel("y")
